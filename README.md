@@ -1,4 +1,4 @@
-# sakruthi-project
+# Architecture Website
 Developed By Harshith Gowda P
 
 copy this link for demo
